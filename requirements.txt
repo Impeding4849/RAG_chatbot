@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain
+langchain-community
+pypdf
+chromadb
+langchain-openai
+langchain-anthropic
+nest-asyncio
+pysqlite3-binary
